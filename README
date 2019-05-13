@@ -1,4 +1,4 @@
-there are three types of piece in this program and the usre should choose between them
+there are three types of piece in this program and the user should choose between them
 after that the game board will appear and the user can block each place 
 then user must push start button and if there is any way to reach the goal the piece must move to it step by step 
 you should notice that there is some diffrent rules for pawn and those are :
